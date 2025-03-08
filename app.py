@@ -9,7 +9,7 @@ from mistralai import Mistral, UserMessage
 st.set_page_config(
     page_title="UDST Policy RAG Assistant", 
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 # Custom CSS for better appearance
