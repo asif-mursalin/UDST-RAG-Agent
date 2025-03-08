@@ -204,10 +204,10 @@ def main():
             print(f"  Saving index to indexes/{safe_name}.index")
             faiss.write_index(index, f"indexes/{safe_name}.index")
             
-            print(f"✅ {policy_name} processed successfully")
+            print(f"{policy_name} processed successfully")
             
         except Exception as e:
-            print(f"❌ Error processing {policy_name}: {str(e)}")
+            print(f"Error processing {policy_name}: {str(e)}")
         
         # Add a small delay to avoid rate limiting
         time.sleep(1)
