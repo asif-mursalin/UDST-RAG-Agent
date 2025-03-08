@@ -217,4 +217,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.caption("UDST Policy RAG Assistant | Submitted for UDST Assignment")
+st.caption("UDST Policy RAG Assistant")
