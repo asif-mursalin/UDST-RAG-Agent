@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main title
-st.title("🎓 UDST Policy Q&A Assistant")
+st.title("UDST Policy Q&A Assistant")
 st.markdown("---")
 
 # Sidebar
@@ -54,9 +54,9 @@ with st.sidebar:
     
     # Check if preprocessing is done
     if not os.path.exists("indexes") or len(os.listdir("indexes")) == 0:
-        st.error("⚠️ Policy data not found. Please run the preprocess.py script first.")
+        st.error("Policy data not found. Please run the preprocess.py script first.")
     else:
-        st.success(f"✅ Found data for {len(os.listdir('indexes'))} policies")
+        st.success(f"Found data for {len(os.listdir('indexes'))} policies")
 
 # Policy URLs list
 POLICY_URLS = {
@@ -138,7 +138,7 @@ query = st.text_input("Your question about this policy:")
 
 # Generate answer when query is submitted
 if query and api_key and selected_policy:
-    with st.spinner("🔍 Searching policy and generating answer..."):
+    with st.spinner("Searching policy and generating answer..."):
         try:
             # Get safe filename
             safe_name = get_safe_filename(selected_policy)
@@ -194,13 +194,13 @@ if query and api_key and selected_policy:
                 st.markdown("</div>", unsafe_allow_html=True)
                 
                 # Show sources in expandable section
-                with st.expander("📚 View source context"):
+                with st.expander("View source context"):
                     for i, chunk in enumerate(retrieved_chunks):
                         st.markdown(f"**Source {i+1}:**")
                         st.text(chunk[:300] + "..." if len(chunk) > 300 else chunk)
                 
                 # Relevance scores
-                with st.expander("📊 Relevance metrics"):
+                with st.expander("Relevance metrics"):
                     st.markdown("**Similarity scores:** (Lower is better)")
                     for i, (score, idx) in enumerate(zip(D.tolist()[0], I.tolist()[0])):
                         st.markdown(f"Source {i+1}: {score:.2f}")
