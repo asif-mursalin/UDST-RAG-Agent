@@ -1,0 +1,111 @@
+TRANSFER POLICY
+1 Definitions
+1.1 The following words and expressions have the meaning hereby assigned to them:
+1.1.1 Academic Advising:
+Interactions between a Student and an Academic Advisor that involve discussing the Student’s academic plan, making appropriate Course selections, academic progression, and learning outcomes.
+1.1.2 Academic Advisor:
+A representative of the University who helps and advises Students on their academic plan, appropriate Course selections, academic progression, and learning outcomes.
+1.1.3 Academic Calendar:
+A representation of the periods associated with the University’s operations, containing the teaching periods, exam and holiday dates, and key deadlines, which is approved by the University’s Board of Trustees.
+1.1.4 Academic Unit:
+An entity within the University that delivers Courses for Programs or for entry into Programs.
+1.1.5 Academic Year:
+Means the 12-month period defined in the University's Academic Calendar, as approved by the Board.
+1.1.6 Admission:
+The process in which Applicants are evaluated for entry into a University Program.
+1.1.7 Applicant:
+An individual who has submitted and completed an application to be admitted into a Program.
+1.1.8 Block Transfer:
+Transfer of credit in the form of a block of Courses rather than on a Course-by-Course basis.
+1.1.9 Challenge Examination:
+An examination that assesses a Student's existing knowledge that may exempt the Student from completing a Course.
+1.1.10 Course:
+A set of Learning Sessions in a particular subject, with a defined scope and duration, and specific learning outcomes.
+1.1.11 Credit:
+A unit of measurement assigned to a Course based on the total amount of learning time that counts toward a Program or credential completion, at a particular level of the Qatar National Qualification Framework.
+1.1.12 Cumulative GPA:
+The overall cumulative grade point average across multiple Semesters in a Student’s Program.
+1.1.13 Exemption from Course:
+A grade type indicating that a Student has satisfied a Course requirement through Course transfer or Challenge Examination.
+1.1.14 External Course:
+Coursework completed at another higher education institution.
+1.1.15 External Transfer:
+Transfer to the University from another higher education institution.
+1.1.16 External Transfer Credit:
+Transfer of eligible Courses and Credit earned at another institution.
+1.1.17 Final Grade:
+The grade assigned for the entire Course when all Final Grade Components of the Course are completed.
+1.1.18 Final Grade Components:
+The elements which, when computed, total the Final Grade for the Course.
+1.1.19 Internal Transfer:
+A transfer between Programs within the University.
+1.1.20 Internal Transfer Credit:
+A transfer of eligible Courses and Credit earned in one University Program to another.
+1.1.21 Learning Session:
+Classes, labs, placements, or work term prescribed by a Course.
+1.1.22 Program:
+A prescribed set of Courses leading to a qualification, including a Certificate, Diploma (2 years), Advanced Diploma (3 years), Bachelor, Master, or Doctorate, according to the Qatar National Qualifications Framework.
+1.1.23 Semester:
+A division of an Academic Year where a Student is enrolled in Course(s) followed by an examination period.
+1.1.24 Student:
+A person who is presently enrolled at the University in a Credit Course or who is designated by the University as a Student.
+1.1.25 Transfer Period:
+The duration of an Internal or External Transfer application submission and approval.
+1.1.26 University:
+University of Doha for Science and Technology established by Emiri Resolution No. 13 of 2022
+1.2 Where the context requires, words importing the singular shall include the plural and vice-versa.
+1.3 Where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings.
+2 Policy Purpose
+2.1 The purpose of this policy is to define the regulations relating to Internal and External Transfer Credit.
+3 Policy Scope
+3.1 This policy applies to:
+3.1.1 All Students transferring from one University Program to another.
+3.1.2 All Applicants transferring to the University from another institution.
+3.2 Applicability
+3.2.1 This policy supersedes Section 8.4, 8.5 A, and 9 of AC-103-PR.
+4 Program Transfer
+4.1 Students are permitted to request a transfer from one Program to another. Program transfer must be completed before the following maximums:
+4.1.1 33 Credits earned towards a Diploma.
+4.1.2 60 Credits earned towards a Bachelor’s degree.
+4.1.3 9 Credits earned towards a Master’s degree.
+4.2 Approval transfer from one Program to another is dependent on the following:
+4.2.1 The Student satisfying the receiving Program’s minimum requirements as outlined in the Transfer Procedure (PR-ST-06) and;
+4.2.2 Program capacity.
+4.3 The receiving Program must ensure appropriate Academic Advising.
+5 Transfer Credit
+5.1 Internal Transfer Credit
+5.1.1 Credits earned in other University Programs may be used to fulfill the requirements of the receiving Program as outlined in the Transfer Procedure (PR-ST-06). Transfer Credit may be granted on an Individual Course or a Block Credit basis.
+5.1.2 The Final Grades for Courses completed prior to the Internal Transfer, which have been accepted into the receiving Program, are computed into the Student’s Cumulative GPA for the receiving Program.
+5.1.3 Unless otherwise specified, Credits earned at the University are eligible for transfer consideration when completed within 5 years of transfer to the Program.
+5.1.4 The receiving Program may accept Credits earned at the University up to the following maximums:
+5.1.4.1 33 Credits towards a Diploma.
+5.1.4.2 60 Credits towards a Bachelor’s degree.
+5.1.4.3 9 Credits towards a Master’s degree.
+5.1.4.4 The timeline for Internal Transfer Credit is detailed in the Academic Calendar.
+5.2 External Transfer Credit
+5.2.1 Subject to satisfying admission requirements, Students who have completed Courses at another recognized higher educational institution may apply for External Transfer Credit as outlined in the Transfer Procedure (PR-ST-06). Students are eligible for External Transfer Credit when:
+5.2.1.1 The External Course was completed with a Final Grade of C or higher; and
+5.2.1.2 The External Course was completed at the same year-level as the equivalent University Course; and
+5.2.1.3 The External Course must equal or exceed the Credits of the equivalent University Course.
+5.2.2 When External Transfer Credit is awarded, only the equivalent University Course is recorded on the transcript with an Exemption from Course notation of EN.
+5.2.3 Unless otherwise specified, credits earned at another institution are eligible for transfer consideration when completed within 5 years of transfer to the University.
+5.2.4 The Student’s University Program may accept External Transfer Credit from other institutions up to the following maximums:
+5.2.4.1 33 Credits towards a Diploma.
+5.2.4.2 60 Credits towards a Bachelor’s degree.
+5.2.4.3 9 Credits towards a Master’s degree.
+5.2.4.4 The timeline for applying External Transfer Credit is at the point of application for Admission to the University.
+6 Master’s Thesis
+6.1 Credit for a Master’s thesis cannot be transferred.
+7 Tuition and Fees
+7.1 Students are responsible for all fees associated with their Program transfer.
+7.2 After enrollment, Qatari Students can transfer Program only once before being assessed tuition charges upon the second transfer.
+8 Procedures
+8.1 The Vice-President, Student Affairs will ensure that procedures are developed and implemented in accordance with this policy.
+9 Related Documents
+9.1 PR-ST-06: Transfer Procedure
+9.2 PL-GV-08: Articulation Agreement Policy
+9.3 PL-ST-05: Academic Standing Policy
+9.4 PL-ST-07: Admissions Policy
+9.5 PL-ST-09: Registration Policy
+PL-ST-06: Transfer Policy ©
+August 2021

@@ -1,0 +1,9 @@
+1. For scrap/parse for each website, save it in indiviudal local facilities
+2. For chunking and getting embeddings of said chunk, Save it locally
+3. save the vector database locally
+
+Then,
+Deploy the RAG Agent to StreamLit. Submit the URL. The chatbot should be
+able to answer questions correctly about at-least 10 UDST policies. The interface
+will list the selected policies (as a list box). A text box to enter Query. And a text
+area to display the answer.
